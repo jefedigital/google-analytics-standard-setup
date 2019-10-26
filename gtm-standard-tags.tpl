@@ -19,7 +19,7 @@ ___INFO___
     "id": "brand_dummy",
     "displayName": ""
   },
-  "description": "Basic starter template for most uses, including Google Analytics, Google Ads, Floodlight (SA360/DV360) and Facebook.  \n\nAlso includes Simo Ahava's \"13 Useful Custom Dimensions\" for Google Analytics.",
+    "description": "Basic Advertising and Analytics starter template for most uses, including Google Analytics, Google Ads, Floodlight (SA360/DV360) and Facebook.",
   "containerContexts": [
     "WEB"
   ]
