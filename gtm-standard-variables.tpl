@@ -14,7 +14,8 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Standard Web Container - Variables",
-  "description": "Basic starter template for most uses, including Google Analytics, Google Ads, Floodlight (SA360/DV360) and Facebook.  \n\nAlso includes Simo Ahava's \"13 Useful Custom Dimensions\" for Google Analytics.",
+  "categories": ["ADVERTISING", "ANALYTICS"],
+  "description": "Basic Advertising and Analytics starter template for most uses, including Google Analytics, Google Ads, Floodlight (SA360/DV360) and Facebook.",
   "containerContexts": [
     "WEB"
   ],
